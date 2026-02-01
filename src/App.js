@@ -24,7 +24,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Website In Progress
+            Testing build
           </p>
       </header>
     </div>
